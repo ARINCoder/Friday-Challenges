@@ -1,8 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##Building a Progress Bar in React.
+##Went ahead and created on two components: Input component and Progress Bar component.
+##In the Input component, I created an input where you can add a value which will be connected to the progress bar. I went ahead and created a onInput function.
+##In the progress component, I used a prop in the function.
+##For more info checkout the codes.
+![alt text](https://github.com/ARINCoder/Friday-Challenges/blob/ThirdWeek/src/assets/mobile%20(2).gif)
