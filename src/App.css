@@ -1,0 +1,13 @@
+#root{
+  display: flex;
+  flex-direction: row;
+  background-image: url('../public/Images/background.jpg');
+  justify-content: center;
+  height: 1000px;
+}
+.app{
+  display: flex;
+  flex-direction: column;
+  font-size: xx-large;
+}
+

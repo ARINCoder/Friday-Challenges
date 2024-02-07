@@ -1,0 +1,16 @@
+
+input{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 46px;
+    border-radius: 20px;
+    background-color: rgb(148, 191, 230);
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    margin-left:200px ;
+    font-size: xx-large;
+    text-align: center;
+    color: black;
+}
